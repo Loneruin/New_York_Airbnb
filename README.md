@@ -35,6 +35,14 @@ Manhattan and Brooklyn have the largest concentration of Airbnb properties and g
 
 ![alt text](Image/MED_Beds_Cluster_Profit.png)
 
+The cluster was determined based on four factors: the number of reviews, the review score, the property price, and the number of beds. All of these factors have statistically significant p-values less than 0.05. Tableau generated two clusters as a result:
+
+    .Cluster 1 has a higher number of reviews, a higher review score, a higher property price, but a lower number of beds.
+
+    .Cluster 2 has a lower number of reviews, a lower review score, a lower property price, but slightly more beds.
+    
+The chart shows that Cluster 1 has a higher profit compared to Cluster 2 with a 162.7% increase approximately.
+
 Between 2008 and 2012, the total profit in Airbnb New York City saw a dramatic increase, rising from $147,325 to $13,611,393. However, starting in 2013, profit started to decline dramatically and is expected to decrease further due to regulatory issues and hosts listing illegally
 
 
